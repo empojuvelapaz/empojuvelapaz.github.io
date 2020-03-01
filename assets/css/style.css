@@ -42,7 +42,7 @@
 
 body {
 	font: 400 16px/1.8 'Nunito', sans-serif;
-	background-color: #C9D3E7;
+	background-color: white;
 	overflow-x: hidden;
 	color: #2C2F36;
 }
@@ -735,7 +735,7 @@ textarea.form-control {
 	position: relative;
 	width: 100%;
 	z-index: 998;
-	background: #101010;
+	background: white;
 }
 
 .navbar-custom {
@@ -755,7 +755,7 @@ textarea.form-control {
 .navbar-custom .navbar-nav .dropdown-menu > li > a {
 	font-size: 11px;
 	letter-spacing: 3px;
-	color: #C9D3E7;
+	color: #2C2F36;
 }
 
 .navbar-custom .nav li.active, .navbar-custom .nav li a:hover, .navbar-custom .nav li a:focus, .navbar-custom .navbar-nav > li.active a {
