@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5, h6 {
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	margin: 5px 0 5px;
-	color: #C9D3E7;
+	color: #2C2F36;
 }
 
 h2 {
@@ -727,7 +727,7 @@ textarea.form-control {
 /* ---------------------------------------------- */
 
 
-.is-sticky .header {
+.header {
 	box-shadow: 0 6px 30px rgba(0,0,0,0.05);
 }
 
@@ -1162,8 +1162,8 @@ figure {
     margin: 30px auto;
     box-shadow: -6px 10px 40px rgba(0,0,0,0.06);
     display: block;
-	color: #C9D3E7;
-	background-color: #232427;
+	color: #2C2F36;
+	background-color: white;
     transition: all 0.3s ease 0s;
     position: relative;
     font-size: inherit;
@@ -1232,7 +1232,7 @@ figure {
     -o-transition: all 0.4s ease-in-out 0s;
     transition: all 0.4s ease-in-out 0s;
     border: 1px solid #37c8ab;
-    color: #fff;
+    color: #2C2F36;
     max-width: 170px;
     margin: 10px auto;
     text-align: center;
