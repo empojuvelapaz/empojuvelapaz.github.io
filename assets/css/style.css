@@ -595,7 +595,7 @@ textarea.form-control {
 
 .hello,
 .who-creates {
-	font-size: 25px;
+	font-size: 18px;
 	text-transform: none;
 	margin: 15px 0;
 	font-weight: 200;
@@ -767,6 +767,7 @@ textarea.form-control {
 .navbar-custom .navbar-brand {
 	font-weight: 700;
 	font-size: 18px;
+	padding: 5px 15px;
 }
 
 .navbar-custom .dropdown-menu {
@@ -1198,7 +1199,7 @@ figure {
 }
 
 .blogList:hover {
-	color: #C9D3E7;
+	color: black;
 }
 
 .blogList:hover h3 {
