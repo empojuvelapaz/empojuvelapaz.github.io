@@ -12,7 +12,7 @@ title: "Empoderando Juventudes La Paz"
 description: ""
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl:  "empojuvelapaz/"
+baseurl:  "/empojuvelapaz"
 
 sass:
   sass_dir: _sass
