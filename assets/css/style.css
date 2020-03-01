@@ -42,9 +42,9 @@
 
 body {
 	font: 400 16px/1.8 'Nunito', sans-serif;
-	color: #C9D3E7;
+	background-color: #C9D3E7;
 	overflow-x: hidden;
-	background-color: #2C2F36;
+	color: #2C2F36;
 }
 
 img {
