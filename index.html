@@ -10,7 +10,7 @@ layout: default
 		<center>
 			<img class="logo--medium" src="/empojuvelapaz/assets/images/logo.png">
 			<h1>EmpoJuve La Paz</h1>
-			<div class="who-creates">Impulsando a las juventudes latinoamericanas a luchar a favor de la paz, la equidad y la justicia social y ambiental.</div>
+			<div class="who-creates">Luchando a favor de la paz, la equidad y la justicia social y ambiental.</div>
 		</center>
 	</div>
 
@@ -54,9 +54,53 @@ layout: default
 
 <!-- Navigation end -->
 
+
+<!-- Blog start -->
+
+<section id="blog" class="module blog module-gray">
+	<div class="container">
+
+		<div class="module-header">
+			<h2 class="module-title">Articulos
+				<span>Blog</span>
+			</h2>
+			<div class="module-line"></div>
+		</div>
+
+		<div class="row">
+
+			{% for post in site.posts limit:3 %}
+			<div class="col-sm-4">
+				<a href="{{site.baseurl}}{{post.url}}" class="blogList wow fadeInUp">
+					<div class="blogList-img">
+						{% if post.banner_image %}
+						<img src="{{site.baseurl}}{{ "/assets/images/post/" | append: post.banner_image | prepend: site.baseurl }}" alt="Blog Desc">
+						{% endif %}
+						{% if post.category %}
+						<span>{{post.category}}</span>
+						{% endif %}
+					</div>
+					<div class="blogList-desc">
+						<h3>{{post.title}}</h3>
+						<div>{{post.description}}</div>
+					</div>
+				</a>
+			</div>
+			{% endfor %}
+
+			<div class="col-sm-12">
+				<a class="blog-viewMore" href="{{site.baseurl}}blog.html">Ver más</a>
+			</div>
+
+		</div><!-- .row -->
+	</div><!-- .container -->
+</section>
+
+<!-- Blog end -->
+
 <!-- Values start -->
 
-<section id="about" class="module text-center module-gray">
+<section id="about" class="module text-center">
 	<div class="container">
 
 		<div class="module-header wow fadeInUp">
@@ -87,47 +131,3 @@ layout: default
 </section>
 
 <!-- Values end -->
-
-<!-- Blog start -->
-
-<section id="blog" class="module blog">
-	<div class="container">
-
-		<div class="module-header">
-			<h2 class="module-title">Articulos
-				<span>Blog</span>
-			</h2>
-			<div class="module-line"></div>
-		</div>
-
-		<div class="row">
-
-			{% for post in site.posts limit:3 %}
-			<div class="col-sm-4">
-				<a href="{{site.baseurl}}{{post.url}}" class="blogList wow fadeInUp">
-					<div class="blogList-img">
-						{% if post.banner_image %}
-						<img src="{{ "assets/images/post/" | append: post.banner_image | prepend: site.baseurl }}"
-							alt="Blog Desc">
-						{% endif %}
-						{% if post.category %}
-						<span>{{post.category}}</span>
-						{% endif %}
-					</div>
-					<div class="blogList-desc">
-						<h3>{{post.title}}</h3>
-						<div>{{post.description}}</div>
-					</div>
-				</a>
-			</div>
-			{% endfor %}
-
-			<div class="col-sm-12">
-				<a class="blog-viewMore" href="{{site.baseurl}}blog.html">Ver más</a>
-			</div>
-
-		</div><!-- .row -->
-	</div><!-- .container -->
-</section>
-
-<!-- Blog end -->

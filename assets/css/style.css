@@ -1232,8 +1232,8 @@ figure {
     -ms-transition: all 0.4s ease-in-out 0s;
     -o-transition: all 0.4s ease-in-out 0s;
     transition: all 0.4s ease-in-out 0s;
-    border: 1px solid #37c8ab;
-    color: #2C2F36;
+    background: #206e38;
+    color: #fff;
     max-width: 170px;
     margin: 10px auto;
     text-align: center;
@@ -1425,7 +1425,8 @@ figure {
 
 .footer {
 	padding: 50px 0;
-    background: #333;
+	background: #333;
+	color: #c9d3e7;
 }
 
 .footer-top {
