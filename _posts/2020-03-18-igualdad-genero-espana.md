@@ -14,7 +14,7 @@ No fue hasta 1909 cuando se celebró por primera vez el Día de las Mujeres Soci
 Después de recopilar un poco de historia, daremos un ejemplo de cómo se recordó este día, específicamente en Madrid y como es la lucha de igualdad de género.  
 Un año más, el 8 de marzo ha estado marcado en España por los debates que atraviesan el feminismo, hecho que ha generado algunas escenas de tensión. A pesar de la poca afluencia de mujeres debido al Coronavirus. 
 
-
+![alt text]({{site.baseurl}}/assets/images/posts/ej_1_espana_image_1.jpg "Pancarta en puente de Toledo")
 Pancarta gigante en Puente de Toledo que pide "barrios libres de transfobia", en una imagen de @encuentrosbollo.
 
 ## ¿Cómo es la lucha en España?
@@ -30,8 +30,8 @@ La fuerza del movimiento feminista a nivel internacional ha vuelto a convertir e
 El movimiento feminista ha desbordado igualmente las calles de Latinoamérica, muy especialmente de Chile, donde desde primera hora de la mañana, cientos de miles de mujeres —las cifras oficiales hablan de hasta dos millones de personas— se han movilizado para retomar las protestas que han llevado a la apertura de un proceso constituyente. El derecho a un aborto legal, libre, seguro y gratuito es una reclamación histórica como en todo el continente americano.
  
 ### Bibliografía 
-Indice Women, Peace & Security Index (2017-2018) de la Universidad de Georgetown y el Peace Research Institute de Oslo.
-Instituto Nacional de Estadística (INE).
-Informe de 2018 de Igualdad de Género de la Comisión Europea (CE)
-Estudio de Ipsos Feminismo e igualdad de género en el mundo.
-Artículo de The Economist sobre presencia femenina en los parlamentos europeos
+- Indice Women, Peace & Security Index (2017-2018) de la Universidad de Georgetown y el Peace Research Institute de Oslo.
+- Instituto Nacional de Estadística (INE).
+- Informe de 2018 de Igualdad de Género de la Comisión Europea (CE)
+- Estudio de Ipsos Feminismo e igualdad de género en el mundo.
+- Artículo de The Economist sobre presencia femenina en los parlamentos europeos
