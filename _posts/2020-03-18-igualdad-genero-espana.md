@@ -14,7 +14,7 @@ No fue hasta 1909 cuando se celebró por primera vez el Día de las Mujeres Soci
 Después de recopilar un poco de historia, daremos un ejemplo de cómo se recordó este día, específicamente en Madrid y como es la lucha de igualdad de género.  
 Un año más, el 8 de marzo ha estado marcado en España por los debates que atraviesan el feminismo, hecho que ha generado algunas escenas de tensión. A pesar de la poca afluencia de mujeres debido al Coronavirus. 
 
-![alt text]({{site.baseurl}}/assets/images/posts/ej_1_espana_image_1.jpg "Pancarta en puente de Toledo")
+![alt text]({{site.baseurl}}/assets/images/post/ej_1_espana_image_1.jpg "Pancarta en puente de Toledo")
 Pancarta gigante en Puente de Toledo que pide "barrios libres de transfobia", en una imagen de @encuentrosbollo.
 
 ## ¿Cómo es la lucha en España?
