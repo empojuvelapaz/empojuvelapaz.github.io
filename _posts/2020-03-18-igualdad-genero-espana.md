@@ -3,15 +3,17 @@ layout: post
 title: "La igualdad de género en España"
 date: 2020-03-18
 description: "El pasado 8 de marzo de conmemoró el Día Internacional de la Mujer, pero ¿por qué se recuerda este día? La historia se remonta a ha..."
-banner_image: opencalais_1.jpg
+banner_image: ej_1_espana_cover.jpg
 category: Genero
 tags: [España, Feminismo]
+author: Julianne Tarifa
 ---
 El pasado 8 de marzo de conmemoró el Día Internacional de la Mujer, pero ¿por qué se recuerda este día? La historia se remonta a hace más de 100 años, el 8 de marzo de 1875, cuando cientos de mujeres trabajadoras de una fábrica de textiles de Nueva York marcharon por las calles contra los bajos salarios, menos de la mitad de lo que cobraban los hombres. Esa jornada terminó con 120 mujeres muertas por la brutalidad policial y provocó que las trabajadoras fundaran el primer sindicato femenino. 
 El 25 de marzo de 1911, tuvo lugar nuevamente uno de los mayores desastres de la industria en Estados Unidos. 146 trabajadoras murieron en un gran incendio de una fábrica textil a causa de derrumbes, quemaduras e intoxicación por humo y otras se suicidaron al no tener escapatoria.
 No fue hasta 1909 cuando se celebró por primera vez el Día de las Mujeres Socialistas en EEUU, un 28 de febrero. En 1910, la II Conferencia Internacional de Mujeres Socialistas estableció el 8 de marzo como Día Internacional de la Mujer Trabajadora.
 Después de recopilar un poco de historia, daremos un ejemplo de cómo se recordó este día, específicamente en Madrid y como es la lucha de igualdad de género.  
 Un año más, el 8 de marzo ha estado marcado en España por los debates que atraviesan el feminismo, hecho que ha generado algunas escenas de tensión. A pesar de la poca afluencia de mujeres debido al Coronavirus. 
+
 
 Pancarta gigante en Puente de Toledo que pide "barrios libres de transfobia", en una imagen de @encuentrosbollo.
 
