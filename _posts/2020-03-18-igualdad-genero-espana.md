@@ -8,7 +8,7 @@ category: Genero
 tags: [España, Feminismo]
 author: Julianne Tarifa
 ---
-El pasado 8 de marzo de conmemoró el Día Internacional de la Mujer, pero ¿por qué se recuerda este día? La historia se remonta a hace más de 100 años, el 8 de marzo de 1875, cuando cientos de mujeres trabajadoras de una fábrica de textiles de Nueva York marcharon por las calles contra los bajos salarios, menos de la mitad de lo que cobraban los hombres. Esa jornada terminó con 120 mujeres muertas por la brutalidad policial y provocó que las trabajadoras fundaran el primer sindicato femenino.
+El pasado 8 de marzo se conmemoró el Día Internacional de la Mujer, pero ¿por qué se recuerda este día? La historia se remonta a hace más de 100 años, el 8 de marzo de 1875, cuando cientos de mujeres trabajadoras de una fábrica de textiles de Nueva York marcharon por las calles contra los bajos salarios, menos de la mitad de lo que cobraban los hombres. Esa jornada terminó con 120 mujeres muertas por la brutalidad policial y provocó que las trabajadoras fundaran el primer sindicato femenino.
 
 El 25 de marzo de 1911, tuvo lugar nuevamente uno de los mayores desastres de la industria en Estados Unidos. 146 trabajadoras murieron en un gran incendio de una fábrica textil a causa de derrumbes, quemaduras e intoxicación por humo y otras se suicidaron al no tener escapatoria.
 
