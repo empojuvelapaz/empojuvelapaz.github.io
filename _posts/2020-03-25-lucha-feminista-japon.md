@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La lucha feminista en Japón"
-date: 2020-03-18
+date: 2020-03-25
 description: "En un mundo lleno de gente única, la comprensión del feminismo puede ser tan variada como nuestras diferencias culturales. Cuando p..."
 banner_image: ej_2_japon_cover.jpg
 category: Genero
