@@ -2,13 +2,13 @@
 layout: post
 title: "La lucha feminista en Japón"
 date: 2020-03-25
-description: "En un mundo lleno de gente única, la comprensión del feminismo puede ser tan variada como nuestras diferencias culturales. Cuando p..."
+description: "En un mundo lleno de gente única, la comprensión del feminismo puede ser tan diversa como nuestras diferencias culturales. Cuando p..."
 banner_image: ej_2_japon_cover.jpg
 category: Genero
 tags: [Japón, Feminismo]
 author: John Choque
 ---
-En un mundo lleno de gente única, la comprensión del feminismo puede ser tan variada como nuestras diferencias culturales. Cuando pensamos en Japón, nos vienen a la mente conceptos como el Anime, el J-Pop y la Tecnología. Pero el trabajo feminista que se ha hecho allí puede explicar mucho mejor cómo los japoneses afrontan la idea de la igualdad de género.
+En un mundo lleno de gente única, la comprensión del feminismo puede ser tan diversa como nuestras diferencias culturales. Cuando pensamos en Japón, nos vienen a la mente conceptos como el Anime, el J-Pop y la Tecnología. Pero el trabajo feminista que se ha hecho allí puede explicar mucho mejor cómo los japoneses afrontan la idea de la igualdad de género.
 
 Puede haber muchos problemas con la comprensión del término "feminismo" en Japón. Una palabra extranjera sin traducción directa a su idioma y por lo tanto, sin manera de asociar el término a un concepto conocido. Una palabra que a veces se entiende como la idea de ser femenina, tal vez como no ser tomada en serio o incluso como tener un papel bien definido en la sociedad. Una palabra que busca la igualdad de oportunidades en el gobierno japonés o incluso evitar que las mujeres sufran de マタハラ (Mata-Hara), el acoso para forzar a una mujer embarazada a dejar su trabajo.
 
@@ -20,7 +20,7 @@ Pero este problema también puede incluir otras formas de violencia, パンチ�
 Incluso muchas series de Anime no muestran a las mujeres como si tuvieran trabajos o estuvieran en posiciones de poder. Esto, por supuesto, no significa que las mujeres no deban ser amas de casa, sino que deben tener el derecho a decidir sin ningún tipo de presión social o acoso de ningún tipo.
 
 ## Medidas adoptadas
-Los vagones de tren para mujeres son algo normal hoy en día. Que fueron creados originalmente para proteger a las mujeres de las prácticas de “upskriting” y muchas mujeres los usan ahora como una forma para sentirse más seguras.
+Los vagones de tren para mujeres son algo normal hoy en día. Que fueron creados originalmente para proteger a las mujeres de las prácticas de “upskirting” y muchas mujeres los usan ahora como una forma para sentirse más seguras.
 
 Como Japón es un país de tendencias, la introducción de イクメン (Ikumen) se está apoderando de la mentalidad de las generaciones más jóvenes. Un Ikumen es un hombre o un marido que está involucrado en las tareas de la casa y en la crianza de los niños. Un concepto que está siendo ampliamente aceptado para crear conciencia sobre los hombres que no forman parte de esas actividades y que van en contra del concepto de un 亭主関白 (Teishu-kanpaku) una casa gobernada por hombres.
 
