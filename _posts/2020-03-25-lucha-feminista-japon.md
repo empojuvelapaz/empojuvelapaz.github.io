@@ -33,7 +33,6 @@ El hashtag #私たちは女性差別に怒っていい (Watashitachiha josei sab
 Tal vez el feminismo en Japón no se basa únicamente en figuras públicas fuertes, sino en una armonía social más colectiva. Tal vez este es el comienzo de un indicio de un cambio positivo. Y aunque este proceso sea difícil, tanto las mujeres como los hombres cuando se atreven a hablar pueden crear un cambio positivo. Tal vez, después de todo, entenderse a uno mismo es la clave para erradicar este problema.
 
 ### Bibliografía 
-- <a href="http://example.com/" target="_blank">example</a>
 - Prominent feminist says Japan 'should not feel complacent' despite signs of progress on women's empowerment en The Japan Times. Recuperado de <a href="https://www.japantimes.co.jp/news/2019/07/23/national/social-issues/prominent-feminist-says-japan-not-feel-complacent-despite-signs-progress-womens-empowerment/#.Xnl0pt-YVhF" target="_blank">japantimes.co.jp</a>
 - Shiori Ito, symbol of Japan's MeToo movement, wins rape lawsuit damages en The Guardian. Recuperado de <a href="https://www.theguardian.com/world/2019/dec/18/shiori-ito-symbol-of-japans-metoo-movement-wins-lawsuit-damages" target="_blank">theguardian.com</a>
 - Is feminism taboo in japan? (2015) en i.-dvice. Recuperado de <a href="https://i-d.vice.com/en_us/article/gygk5m/is-feminism-taboo-in-japans" target="_blank">i-d.vice.com</a>
