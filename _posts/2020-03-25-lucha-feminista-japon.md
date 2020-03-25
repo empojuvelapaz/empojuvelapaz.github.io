@@ -33,13 +33,11 @@ El hashtag #私たちは女性差別に怒っていい (Watashitachiha josei sab
 Tal vez el feminismo en Japón no se basa únicamente en figuras públicas fuertes, sino en una armonía social más colectiva. Tal vez este es el comienzo de un indicio de un cambio positivo. Y aunque este proceso sea difícil, tanto las mujeres como los hombres cuando se atreven a hablar pueden crear un cambio positivo. Tal vez, después de todo, entenderse a uno mismo es la clave para erradicar este problema.
 
 ### Bibliografía 
-- Prominent feminist says Japan 'should not feel complacent' despite signs of progress on women's empowerment en The Japan Times. Recuperado de https://www.japantimes.co.jp/news/2019/07/23/national/social-issues/prominent-feminist-says-japan-not-feel-complacent-despite-signs-progress-womens-empowerment/#.Xnl0pt-YVhF
-- Shiori Ito, symbol of Japan's MeToo movement, wins rape lawsuit damages en The Guardian. Recuperado de https://www.theguardian.com/world/2019/dec/18/shiori-ito-symbol-of-japans-metoo-movement-wins-lawsuit-damages
-- Is feminism taboo in japan? (2015) en i.-dvice. Recuperado en https://i-d.vice.com/en_us/article/gygk5m/is-feminism-taboo-in-japan
-- What do Japanese People Think of Feminism? (2018) en Waseada, Recuperado en https://www.hercampus.com/school/waseda/what-do-japanese-people-think-feminism
-- #MeToo Japan: What happened when women broke their silence en BBC News. Recuperado de 
-https://www.bbc.com/news/world-asia-43721227
-- 4 Of The Most Powerful (To Date) Feminist Movements In Japan en Saw Tokio, Recuperado de
-https://savvytokyo.com/4-of-the-most-powerful-to-date-feminist-movements-in-japan/
-- Women of Japan unite: Examining the contemporary state of feminism en The Japan Time. Recuperado de 
-https://www.japantimes.co.jp/life/2015/10/03/lifestyle/women-japan-unite-examining-contemporary-state-feminism/#.Xnl0pt-YVhF
+- <a href="http://example.com/" target="_blank">example</a>
+- Prominent feminist says Japan 'should not feel complacent' despite signs of progress on women's empowerment en The Japan Times. Recuperado de <a href="https://www.japantimes.co.jp/news/2019/07/23/national/social-issues/prominent-feminist-says-japan-not-feel-complacent-despite-signs-progress-womens-empowerment/#.Xnl0pt-YVhF" target="_blank">japantimes.co.jp</a>
+- Shiori Ito, symbol of Japan's MeToo movement, wins rape lawsuit damages en The Guardian. Recuperado de <a href="https://www.theguardian.com/world/2019/dec/18/shiori-ito-symbol-of-japans-metoo-movement-wins-lawsuit-damages" target="_blank">theguardian.com</a>
+- Is feminism taboo in japan? (2015) en i.-dvice. Recuperado de <a href="https://i-d.vice.com/en_us/article/gygk5m/is-feminism-taboo-in-japans" target="_blank">i-d.vice.com</a>
+- What do Japanese People Think of Feminism? (2018) en Waseada, Recuperado de <a href="https://www.hercampus.com/school/waseda/what-do-japanese-people-think-feminism" target="_blank">hercampus.com</a>
+- #MeToo Japan: What happened when women broke their silence en BBC News. Recuperado de <a href="https://www.bbc.com/news/world-asia-43721227" target="_blank">bbc.com</a>
+- 4 Of The Most Powerful (To Date) Feminist Movements In Japan en Saw Tokio, Recuperado de <a href="https://savvytokyo.com/4-of-the-most-powerful-to-date-feminist-movements-in-japan/" target="_blank">savvytokyo.com</a>
+- Women of Japan unite: Examining the contemporary state of feminism en The Japan Time. Recuperado de <a href="https://www.japantimes.co.jp/life/2015/10/03/lifestyle/women-japan-unite-examining-contemporary-state-feminism/#.Xnl0pt-YVhF" target="_blank">japantimes.co.jp</a>
