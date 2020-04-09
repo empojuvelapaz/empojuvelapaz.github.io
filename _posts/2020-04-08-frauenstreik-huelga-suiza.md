@@ -8,7 +8,7 @@ category: Genero
 tags: [Suiza, Feminismo]
 author: John Choque
 ---
-En junio de 2019, decenas de miles de mujeres se reunieron en las calles de Ginebra. Debido a los numerosos casos de diferencias en los salarios y los derechos de los trabajadores, mujeres de todas las edades marcharon juntas para concienciar sobre su maltrato. Más de 100000 personas marcharon en Zurich, alrededor de 60000 en Lausana y cerca de 30000 en Ginebra. La nueva ola de feminismo en Suiza busca concientizar sobre sus problemas actuales en materia de igualdad de género.
+En junio de 2019, decenas de miles de mujeres se reunieron en las calles de Ginebra. Debido a los numerosos casos de diferencias en los salarios y los derechos de los trabajadores. Mujeres de todas las edades marcharon juntas para concienciar sobre su maltrato. Más de 100000 personas marcharon en Zurich, alrededor de 60000 en Lausana y cerca de 30000 en Ginebra. La nueva ola de feminismo en Suiza busca concientizar sobre sus problemas actuales en materia de igualdad de género.
 
 ## La primera gran huelga
 En 1991, una huelga fue la razón principal para impulsar la inclusión de la Ley Federal de Igualdad de Género, la licencia de maternidad, el derecho al aborto y la comedia de la violencia doméstica. En junio de 1991, una ola púrpura barrió todo el país. Desde las ventanas de las casas hasta los espacios públicos. Fue la reafirmación de los esfuerzos de género para la igualdad. Las mujeres se organizaron para caminar en las calles y luchar por sus derechos. Fue el comienzo de un gran proceso que dio sus frutos.
@@ -23,11 +23,11 @@ Hoy en día, alrededor de una de cada siete mujeres pierde su trabajo por causa 
 ## La huelga de 2019
 Durante más de 600 años, el vigilante de la Catedral de Lausana subía al campanario para tocar la campana cada hora. Pero en la huelga del 14 de junio de 2019. La ciudad de Lausana vio a su primera vigilante. Un grupo de 4 mujeres, y el primer toque de campana marcó el inicio de la huelga.
 
-Fue el movimiento #metoo el que inspiró a muchas mujeres suizas a luchar contra ciertos pensamientos patriarcales. Como el hecho de que muchas escuelas no tengan cantina como "las mujeres son las que cocinan" o que actualmente todavía hay leyes que definen la violación como la penetración vaginal forzada por un pene.
+Fue el movimiento #MeToo el que inspiró a muchas mujeres suizas a luchar contra ciertos pensamientos patriarcales. Como el hecho de que muchas escuelas no tengan cantina como "las mujeres son las que cocinan" o que actualmente todavía hay leyes que definen la violación como la penetración vaginal forzada por un pene.
 
 Como #Frauenstreik - huelga de mujeres en alemán- estuvo de moda durante días. Se inició todo un movimiento para luchar contra los problemas que se han incrementado desde el 2000 sobre la igualdad de género. Con las mujeres que marcharon en la primera huelga estando presentes de nuevo. Las mujeres jóvenes son conscientes de estos problemas. El movimiento feminista en Suiza sigue luchando para reducir la brecha de género.
 
-Debemos ser conscientes de que países como Suiza entienden mucho mejor el tema de la igualdad de género. Frases como "Esa fue la primera mujer suiza que..." ya no se oyen hoy en día. El progreso de un país con una economía fuerte demuestra que esta lucha está en manos de las generaciones más jóvenes. Y tal vez, mantener esta lucha hará que las generaciones futuras sean diferentes.
+Debemos ser conscientes de que países como Suiza entienden mucho mejor el tema de la igualdad de género. Frases como: "Esa fue la primera mujer suiza que..." ya no se oyen hoy en día. El progreso de un país con una economía fuerte demuestra que esta lucha está en manos de las generaciones más jóvenes. Y tal vez, mantener esta lucha hará que las generaciones futuras sean diferentes.
 
 
 ### Bibliografía 
