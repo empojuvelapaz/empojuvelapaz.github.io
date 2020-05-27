@@ -29,6 +29,8 @@ Gandarillas (apodada "La ciega", ya que por una diabetes su visión había sido 
 
 En el billete de 10 bolivianos, en la parte de atrás está el paisaje que se ve desde el monumento a las heroínas de La Coronilla en Cochabamba, obra entregada en 1926. Este monumento se encuentra sobre la Colina de San Sebastián, ubicada al sur de Cochabamba.
 
+![alt text]({{site.baseurl}}/assets/images/post/ej_9_madre_bolivia_image_1.jpg "Monumento a las Heroínas de la Coronilla en Cochabamba")
+Monumento a las Heroínas de la Coronilla en Cochabamba.
 
 ### Bibliografía 
 - ¿Por qué se celebra el Día de la Madre el segundo domingo de mayo? Recuperado en  bbva.com.
