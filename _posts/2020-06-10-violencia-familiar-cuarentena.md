@@ -45,8 +45,8 @@ La FELCV habilitó 11 líneas WhatsApp, que también tienen la virtud de permiti
 
 ### Bibliografía 
 - Articulación regional Feminista (ARF) “Los derechos de las mujeres de la región en épocas de COVID-19. Estado de situación y recomendaciones para promover políticas con justicia de género” Buenos Aires, mayo 2020. 
-- https://www.facebook.com/192543376323/videos/596086761013482
-- https://www.facebook.com/192543376323/videos/639389209945521
-- https://www.fiscalia.gob.bo/index.php/3376-durante-la-cuarentena-los-delitos-de-violencia-de-genero-persisten-a-nivel-nacional 
-- https://www.la-razon.com/sociedad/2020/04/07/la-felcv-habilita-11-lineas-whatsapp-para-denuncias-de-violencia/
+- <a href="https://www.facebook.com/192543376323/videos/596086761013482">facebook.com</a>
+- <a href="https://www.facebook.com/192543376323/videos/639389209945521">facebook.com</a>
+- <a href="https://www.fiscalia.gob.bo/index.php/3376-durante-la-cuarentena-los-delitos-de-violencia-de-genero-persisten-a-nivel-nacional">fiscalia.gob.bo</a>
+- <a href="https://www.la-razon.com/sociedad/2020/04/07/la-felcv-habilita-11-lineas-whatsapp-para-denuncias-de-violencia/">la-razon.com</a>
 - Sanchez Garcia, M. (2016) “Cartas de mujeres: Poder Patriarcal y las múltiples expresiones de la violencia contra las mujeres”, Bolivia: Instituto de Investigación Interacción Social y Posgrado  de la carrera de Trabajo Social Universidad Mayor de San Andrés.
