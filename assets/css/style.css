@@ -1836,6 +1836,7 @@ figure {
 	font-size: 1em;
 	margin-top: 30px;
 	overflow: hidden;
+	padding: 0;
   }
   .main-info ul li {
 	display: inline-block;
