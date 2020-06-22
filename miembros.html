@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<!-- Blog start -->
+
+{% include nav.html %}
+
+<section id="blog-page" class="module">
+	<div class="container">
+		<div class="row">
+			<div class="module-header">
+				<h2 class="module-title">
+					Nuestro equipo
+					<span>Equipo</span>
+				</h2>
+				<div class="module-line"></div>
+			</div>
+		</div><!-- .row -->
+
+		<ul class="list-items-container">
+			{% for miembro in site.miembros %}
+			<li class="list-item" data-groups="all {{ post.category }}">
+				<figure>
+					<img src="{{site.baseurl}}/assets/images/miembro/{{miembro.profile_thumbnail}}" alt="p1">
+					<figcaption>
+						<div class="caption-inner">
+							<h3 class="portfolio-item-title">{{miembro.nombre}}</h3>
+							<div class="portfolio-item-desc">{{miembro.comision}}</div>
+						</div>
+					</figcaption>
+				</figure>
+			</li>
+
+			{% endfor %}
+
+
+		</ul><!-- .projects-container -->
+	</div><!-- .contaier -->
+
+</section>
+
+<!-- Blog start -->
