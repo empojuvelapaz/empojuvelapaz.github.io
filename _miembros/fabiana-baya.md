@@ -4,8 +4,7 @@ title: "Fabiana Bayá"
 profile_pic: fabiana_baya.jpeg
 profile_thumbnail: fabiana_baya.jpeg
 comision: Ambiental
-order: 1
-facebook: test
+facebook: faby.rocas
 instagram: crazy_reader36
 ---
 
