@@ -1761,7 +1761,6 @@ figure {
 }
 
 .block-left .content {
-	height: 100%;
 	z-index: 1;
 	position: relative;
 	padding: 60px;
@@ -1776,7 +1775,7 @@ figure {
 
 .block-left .main-info {
 	text-align: center;
-    max-width: 400px;
+    max-width: 600px;
     width: 100%;
 	margin: 0 auto;
 	color: #fff;
@@ -1814,7 +1813,7 @@ figure {
   .main-info h2 {
 	font-size: 30px;
 	position: relative;
-	margin-top: 0;
+	color: white;
   }
   .main-info h1:after,
   .main-info h2:after {
@@ -1832,10 +1831,7 @@ figure {
 	transform: translatex(-50%);
   }
   .main-info p {
-	font-size: 21px;
-	line-height: 30px;
-	margin: 10px 0;
-	padding-top: 25px;
+	padding-top: 50px;
   }
   .main-info ul {
 	font-size: 1em;
