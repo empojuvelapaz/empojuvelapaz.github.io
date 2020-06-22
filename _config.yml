@@ -28,3 +28,8 @@ author_name: ""
 
 # Social links in the site footer
 facebook_username: "EmpoJuveLaPaz"
+
+collections:
+  miembros:
+    output: true
+    permalink: /miembros/:name
