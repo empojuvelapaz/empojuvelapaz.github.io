@@ -1891,3 +1891,7 @@ figure {
 	padding: 0.3em 0.35em;
 	color: #FFFFFF;
   }
+
+  .blog-detail-content {
+	  overflow-x: hidden;
+  }
