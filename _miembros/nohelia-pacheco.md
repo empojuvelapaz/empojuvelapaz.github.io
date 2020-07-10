@@ -3,7 +3,7 @@ layout: miembro
 title: "Nohelia Pacheco Saavedra"
 profile_pic: nohelia_pacheco.jpeg
 profile_thumbnail: nohelia_pacheco.jpeg
-comision: Ambiental
+comision: Comisión Ambiental
 facebook: nohelia.pacheco.142
 ---
 

@@ -3,7 +3,7 @@ layout: miembro
 title: "Marianela Saavedra Cortez"
 profile_pic: marianela_saavedra.jpeg
 profile_thumbnail: marianela_saavedra.jpeg
-comision: Género
+comision: Comisión de Género
 facebook: marianela.saavedra.14
 email: marysaave_96@hotmail.com
 ---

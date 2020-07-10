@@ -3,7 +3,7 @@ layout: miembro
 title: "Ariel Rivero"
 profile_pic: ariel_rivero.jpeg
 profile_thumbnail: ariel_rivero.jpeg
-comision: Ambiental
+comision: Comisión Ambiental
 facebook: ivanariel.escobarrivero
 instagram: ari_rivero_ml
 linkedin: ari-rivero-0ab0821a5

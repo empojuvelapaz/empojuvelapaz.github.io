@@ -3,7 +3,7 @@ layout: miembro
 title: "Claudia Montecinos"
 profile_pic: claudia_montecinos.jpeg
 profile_thumbnail: claudia_montecinos.jpeg
-comision: Ambiental
+comision: Comisión Ambiental
 facebook: claudia.montecinos.148
 instagram: cloudy_cmr
 ---

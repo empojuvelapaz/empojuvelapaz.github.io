@@ -3,7 +3,7 @@ layout: miembro
 title: "Alondra Vanessa Quispe Ludeña"
 profile_pic: alondra_quispe.jpeg
 profile_thumbnail: alondra_quispe.jpeg
-comision: Ambiental
+comision: Comisión Ambiental
 facebook: alondravanessa.quispeludena.1
 instagram: alondra_vane198
 twitter: AlondraLudena

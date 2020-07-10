@@ -3,7 +3,7 @@ layout: miembro
 title: "Adriana Huarachi Isnado"
 profile_pic: adriana_huarachi.jpeg
 profile_thumbnail: adriana_huarachi.jpeg
-comision: Ambiental
+comision: Comisión Ambiental
 facebook: adri.huarachi.i
 ---
 

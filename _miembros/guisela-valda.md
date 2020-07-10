@@ -3,7 +3,7 @@ layout: miembro
 title: "Guisela Valda Carrasco"
 profile_pic: guisela_valda.jpeg
 profile_thumbnail: guisela_valda.jpeg
-comision: Ambiental
+comision: Comisión Ambiental
 facebook: GuiselaValda
 twitter: guisel_titi
 instagram: magic_sky441

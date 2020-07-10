@@ -3,7 +3,7 @@ layout: miembro
 title: "Julianne Tarifa"
 profile_pic: julianne_tarifa.jpeg
 profile_thumbnail: julianne_tarifa.jpeg
-comision: Género
+comision: Comisión de Género
 facebook: july.tarifa
 instagram: julytarifa95
 email: juli.tarifah@gmail.com

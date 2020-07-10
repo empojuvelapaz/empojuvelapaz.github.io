@@ -3,7 +3,7 @@ layout: miembro
 title: "Cristian Fabiani"
 profile_pic: cristian_fabiani.jpeg
 profile_thumbnail: cristian_fabiani.jpeg
-comision: Género
+comision: Comisión de Género
 facebook: chrizscream
 instagram: cjfabiani
 linkedin: cristian-j-fabiani-2970241a8

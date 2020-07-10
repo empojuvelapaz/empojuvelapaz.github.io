@@ -3,7 +3,7 @@ layout: miembro
 title: "Darío Meza"
 profile_pic: dario_meza.jpeg
 profile_thumbnail: dario_meza.jpeg
-comision: Ambiental
+comision: Comisión Ambiental
 twitter: DarioMezaCrespo
 instagram: dario_mezac
 facebook: dario.meza.923519

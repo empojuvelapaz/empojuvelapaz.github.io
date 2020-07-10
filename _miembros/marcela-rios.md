@@ -3,7 +3,7 @@ layout: miembro
 title: "Marcela Rios"
 profile_pic: marcela_rios.jpeg
 profile_thumbnail: marcela_rios.jpeg
-comision: Género
+comision: Comisión de Género
 facebook: valentina.rios.3150807
 email: marcelavalentinariv@gmail.com
 ---
