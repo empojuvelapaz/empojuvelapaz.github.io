@@ -1,10 +1,14 @@
 ---
 layout: miembro
-title: "Ursula Lecoña"
-profile_pic: ursula_lecona.jpeg
-profile_thumbnail: ursula_lecona.jpeg
+title: "Fabiola Leonor Aruquipa Quispe"
+profile_pic: fabiola_aruquipa.jpg
+profile_thumbnail: fabiola_aruquipa.jpg
 comision: Comisión de Género
-facebook: profile.php?id=100010754520094
+facebook: fabita.aruquipa
+instagram: fabu_leonor
+linkedin: fabiola-leonor-aruquipa-quispe-074183153
 ---
 
-Hola mi nombre es Ursula Milenca Lecoña Condori y formo parte de la Comisión de Género actualmente soy egresada de la carrera de Ciencia Política de la Universidad Mayor de San Andrés, me encanta hacer voluntariados  es lo que me apasiona y generar oportunidad.
+Hola! Soy Fabiola Aruquipa, Coordinadora de la Comisión de Género. Soy Abogada Titulada de la Universidad Católica San Pablo y estudiante de Sociología en la Universidad Mayor de San Andrés. 
+Mi motivación en la vida es la defensa de los derechos de los niños y el empoderamiento de la mujer. 
+Mi lema es: Make it possible breaking impossible.
