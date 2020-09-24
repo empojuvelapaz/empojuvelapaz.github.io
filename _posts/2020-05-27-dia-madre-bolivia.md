@@ -5,7 +5,7 @@ date: 2020-05-27
 description: "Las primeras celebraciones del Día de la Madre se remontan a la antigua Grecia, donde se le rendían honores a Rea, la madre de los ..."
 banner_image: ej_9_madre_bolivia_cover.jpg
 category: Genero
-tags: [Bolivia, Genero]
+tags: [Bolivia, Género]
 author: Julianne Tarifa
 ---
 

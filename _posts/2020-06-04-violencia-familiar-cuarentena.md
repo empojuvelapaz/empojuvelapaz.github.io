@@ -5,7 +5,7 @@ date: 2020-06-04
 description: "Para sensibilizar a las personas y tomar acciones  acerca de los hechos de abuso que sufren la mujeres. Es necesario manifestar que..."
 banner_image: ej_10_violencia_familiar_cover.jpg
 category: Genero
-tags: [Bolivia, Genero]
+tags: [Bolivia, Género]
 author: Carolina L. Guanca Coca 
 ---
 

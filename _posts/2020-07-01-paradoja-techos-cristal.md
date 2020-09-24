@@ -5,7 +5,7 @@ date: 2020-07-01
 description: "En la actualidad se puede evidenciar de manera objetiva, a lo largo de una carrera profesional o iniciativas de impacto social/econ..."
 banner_image: ej_14_paradoja_techos_cristal_cover.jpg
 category: Género 
-tags: [Gènero, Techos de cristal]
+tags: [Género, Techos de cristal]
 author: Cristian J. Fabiani Casas
 ---
 

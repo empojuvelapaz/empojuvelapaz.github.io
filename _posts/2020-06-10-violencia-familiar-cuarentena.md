@@ -5,7 +5,7 @@ date: 2020-06-10
 description: "La violencia es un fenómeno histórico que se relaciona con las construcciones sociales, generando relaciones de poder, discriminaci..."
 banner_image: ej_11_violencia_familiar_cover.jpg
 category: Genero
-tags: [Bolivia, Genero]
+tags: [Bolivia, Género]
 author: Maria Naty Cuno Salgado
 ---
 
