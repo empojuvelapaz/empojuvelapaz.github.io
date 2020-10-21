@@ -4,7 +4,7 @@ title: "Personas trans bajo la mirada evasiva a sus derechos durante la pandemia
 date: 2020-07-08
 description: "Actualmente todos los países enfrentan una emergencia sanitaria global causada por el covid-19, Latinoamérica aumenta vigas de inju..."
 banner_image: ej_15_personas_trans_durante_pandemia_cover.jpg
-category: Género 
+category: Genero 
 tags: [Género, trans, pandemia, derechos]
 author: María Naty Cuno Salgado; Alondra Vanessa Quispe Ludeña 
 
