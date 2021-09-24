@@ -2,7 +2,7 @@
 layout: post
 title: "Cero discriminación"
 date: 2021-03-01
-description: "Según la UNESCO se entiende por discriminación toda distinción, exclusión, limitación o preferencia, fundada en la raza, el color, el sexo, el idio..."
+description: "Según la UNESCO se entiende por ‘discriminación’ toda distinción, exclusión, limitación o preferencia, fundada en la raza, el color, el sexo, el idio..."
 banner_image: ej_19_cero_discriminacion_cover.jpg
 category: Derechos Humanos 
 tags: [discriminacion, dignidad, derechos]
